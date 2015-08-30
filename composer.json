@@ -1,4 +1,6 @@
 {
+	"name": "willians/mvc",
+    "description": "MVC do curso PHP Moderno",
 	"require": {
 		"symfony/http-foundation": "*"
 	},
